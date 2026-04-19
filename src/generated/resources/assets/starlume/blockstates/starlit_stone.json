@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "starlume:block/starlit_stone"
+    }
+  }
+}
